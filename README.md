@@ -8,7 +8,8 @@ Sumber info buat yang mau belajar trading atau investasi saham
 - [Yahoo Finance](https://finance.yahoo.com/) - Data saham harian dan grafik. Data bisa didownload dalam format CSV.
 
 ## Tools
-- [AmiBroker](https://www.amibroker.com/) - Software desktop untuk technical analysis, charting, programming, dan backtesting
+- [AmiBroker](https://www.amibroker.com/) - Software desktop untuk technical analysis, charting, programming, dan backtesting.
+- [Metastock](https://www.metastock.com/) - Software charting dan technical analysis seperti AmiBroker.
 
 ## Apps
 - [RTI Business]
