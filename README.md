@@ -2,7 +2,7 @@
 Sumber info buat yang mau belajar trading atau investasi saham
 
 ## Blog
-- [teguhhidayat](https://www.teguhhidayat.com/) - Blog soal value investing. Banyak berisi analisis emiten juga.
+- [Teguh Hidayat](https://www.teguhhidayat.com/) - Blog soal value investing. Banyak berisi analisis emiten juga.
 
 ## Data
 - [Yahoo Finance](https://finance.yahoo.com/) - Data saham harian dan grafik. Data bisa didownload dalam format CSV.
