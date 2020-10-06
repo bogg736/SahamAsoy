@@ -10,6 +10,17 @@ Sumber info buat yang mau belajar trading atau investasi saham
 ## Tools
 - [AmiBroker](https://www.amibroker.com/) - Software desktop untuk technical analysis, charting, programming, dan backtesting
 
+## Apps
+- [RTI Business]
+- [RTI Analytics]
+
+## Portal Berita
+- [Kontan](https://www.kontan.co.id/)
+- [Bisnis.com](https://www.bisnis.com/)
+- [IPOT News](https://www.indopremier.com/ipotnews/)
+
+## Research
+
 ## Telegram Group
 
 ## Stockbit User
