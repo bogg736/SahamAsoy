@@ -13,6 +13,7 @@ Sumber info buat yang mau belajar trading atau investasi saham
 ## Apps
 - [RTI Business]
 - [RTI Analytics]
+- [RTI Finance](https://www.rti.co.id/?m_id=17#&panel1-1) - Windows 10 Only, menampilkan data market dan emiten. 
 
 ## Portal Berita
 - [Kontan](https://www.kontan.co.id/)
