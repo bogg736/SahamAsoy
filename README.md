@@ -7,11 +7,12 @@ Sumber info buat yang mau belajar trading atau investasi saham
 ## Data
 - [Yahoo Finance](https://finance.yahoo.com/) - Data saham harian dan grafik. Data bisa didownload dalam format CSV.
 - [IDN Financial]
-- []
+- [Google Finance](https://support.google.com/docs/answer/3093281?hl=en) - Get Data Saham Melalui Google Sheets.
 
 ## Tools
 - [AmiBroker](https://www.amibroker.com/) - Software desktop untuk technical analysis, charting, programming, dan backtesting.
 - [Metastock](https://www.metastock.com/) - Software charting dan technical analysis seperti AmiBroker.
+- [Py YFinance](https://github.com/ranaroussi/yfinance) - Data Saham melalu python.
 
 ## Web App
 - [TradingView](https://www.tradingview.com/)
